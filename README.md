@@ -7,7 +7,7 @@
 - 📫 How to reach me:
 - Email: aruna.panwar777@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy hiking and often analyze data on trail conditions and wildlife sightings.
+
 
 <!---
 aruna-panwar/aruna-panwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
