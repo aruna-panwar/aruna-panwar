@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aruna-panwar
+# 👋 Hi, I’m @Aruna-panwar
 
 ## About Me
 - 👀 I’m passionate about data analysis and turning data into actionable insights.
